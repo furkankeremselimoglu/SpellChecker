@@ -1,5 +1,5 @@
-# CS 101 Project: SpellChecker
-## Spell Checker: The Goal of the Project
+# CS 101 Project
+### Spell Checker: The Goal of the Project
 In this project, your job is to write an English spell checker. Your program should ask the user to
 enter a line of text, which can contain multiple words, even sentences. Your program should
 then proceed to parse the line into words, and eventually print out a line of text with all the
