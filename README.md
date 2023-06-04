@@ -15,6 +15,5 @@ There are seven people, of which three are women.
 [1]: https://en.wikipedia.org/wiki/Damerau–Levenshtein_distance "Damerau–Levenshtein distance"
 
 ### Sample usage of the project:
-![image](![sample usage](https://github.com/furkankeremselimoglu/SpellChecker/assets/83104753/9271fd7f-7ea3-438e-9b44-c993b8ffe4ee)
-)
+![sample usage](https://github.com/furkankeremselimoglu/SpellChecker/assets/83104753/9271fd7f-7ea3-438e-9b44-c993b8ffe4ee)
 
