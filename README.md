@@ -10,3 +10,7 @@ There are sven people, of which three rae women.
 The output should be:
 
 There are seven people, of which three are women.
+
+### Sample usage of the project:
+![image](https://github.com/furkankeremselimoglu/SpellChecker/assets/83104753/909f9952-7088-444a-a2cc-1d448126745e)
+
