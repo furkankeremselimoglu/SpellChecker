@@ -11,6 +11,10 @@ The output should be:
 
 There are seven people, of which three are women.
 
+Damerau–Levenshtein distance algorithm used in this project.
+[https://en.wikipedia.org/wiki/Damerau–Levenshtein_distance] "Damerau–Levenshtein distance"
+
 ### Sample usage of the project:
-![image](https://github.com/furkankeremselimoglu/SpellChecker/assets/83104753/909f9952-7088-444a-a2cc-1d448126745e)
+![image](![sample usage](https://github.com/furkankeremselimoglu/SpellChecker/assets/83104753/9271fd7f-7ea3-438e-9b44-c993b8ffe4ee)
+)
 
