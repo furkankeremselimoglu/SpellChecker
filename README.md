@@ -11,6 +11,8 @@ The output should be:
 
 There are seven people, of which three are women.
 
+------------------------------------------------------------------
+
 [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki/Damerau–Levenshtein_distance) algorithm used in this project.
 
 ### Sample usage of the project:
